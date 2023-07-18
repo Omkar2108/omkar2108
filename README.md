@@ -2,4 +2,4 @@
 - 👀 I’m interested in Web and App Development in Javascript
 - 🌱 I’m currently learning Reactjs, Django and much more  
 - 💞️ I’m looking to collaborate on Reactjs
-- 📫 How to reach me omkarshevare@gmail.com
+- 📫 How to reach me omkarshevare7@gmail.com
